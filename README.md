@@ -5,7 +5,10 @@
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 
 ## 🚀 Project Overview  
-This **Power BI dashboard** delivers robust **financial analytics** and business insights for decision-makers. It consolidates data across finance, operations, and marketing to generate actionable intelligence.
+This **Power BI dashboard** delivers robust **financial analytics** and business insights for decision-makers.  
+It consolidates data across finance, operations, and marketing to generate actionable intelligence.
+
+👉 **[View Live Dashboard on Power BI Service](https://app.powerbi.com/groups/me/reports/340d9d72-224f-4e94-8be3-d5e4d9c727f5/ReportSection3e6d270a5b20870d7cd8?experience=power-bi)**
 
 ---
 
