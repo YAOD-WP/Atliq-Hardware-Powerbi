@@ -39,6 +39,28 @@ Focusing on profit and loss analysis alongside market share trends, this view sh
 - SQL and Excel for data preparation
 - Performance optimization with DAX Studio
 
+## Data Modeling
+
+### Star Schema Overview
+The data model employs a star schema with fact tables connected to dimension tables for efficient querying and analysis.
+
+- **Fact Tables**: Sales, Inventory
+- **Dimension Tables**: Customer, Product, Date, Geography
+
+### Relationships Diagrams
+
+![Relationship Diagram 1](relationships/1.PNG)
+
+This diagram illustrates the relationships between the Sales fact table and dimension tables such as Customer and Product.
+
+![Relationship Diagram 2](relationships/2.PNG)
+
+This shows connections involving the Date dimension for time-based analysis.
+
+![Relationship Diagram 3](relationships/3.PNG)
+
+This diagram highlights relationships for inventory and supply chain metrics.
+
 ## Business Questions Addressed
 - Product and customer profitability
 - Forecast accuracy vs. actuals
