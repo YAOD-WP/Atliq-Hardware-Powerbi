@@ -4,7 +4,7 @@
 ![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ## Overview
-This Power BI dashboard provides financial analytics and business insights for Atliq Hardware. It integrates data from finance, operations, and marketing to support decision-making with metrics on profitability, forecasting, and market performance.
+This Power BI dashboard provides financial analytics and business insights for Atliq Hardware by connecting to an SQL database. It integrates data from finance, operations, and marketing to address real-world business problems with metrics on profitability, forecasting, and market performance.
 
 [View Live Dashboard](https://app.powerbi.com/groups/me/reports/340d9d72-224f-4e94-8be3-d5e4d9c727f5/ReportSection3e6d270a5b20870d7cd8?experience=power-bi)
 
