@@ -14,17 +14,14 @@ It consolidates data across finance, operations, and marketing to generate actio
 
 ## 🖼️ Dashboard Previews  
 
-### Executive Summary  
-![Dashboard Overview](images/dashboard_overview.png)
+### Executive Summary
+![Executive Summary](executive%20summary.PNG)
 
-### Profitability & Revenue Insights  
-![Profitability Dashboard](images/profitability_dashboard.png)
+### Profitability & Revenue Insights
+![Profitability & Revenue Insights](Profit%26Loss.PNG)
 
-### Forecast Accuracy & Variance  
-![Forecast Dashboard](images/forecast_dashboard.png)
-
-### P&L & Market Performance  
-![PnL Dashboard](images/pnl_dashboard.png)
+### P&L & Market Performance
+![P&L & Market Performance](Supply%20Chain.PNG)
 
 ---
 
