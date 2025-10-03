@@ -13,11 +13,17 @@ This Power BI dashboard provides financial analytics and business insights for A
 ### Executive Summary
 ![Executive Summary](executive%20summary.PNG)
 
+This section provides a high-level overview of key financial metrics, including total revenue, net profit, and year-over-year growth trends to give stakeholders a quick snapshot of the company's performance.
+
 ### Profitability & Revenue Insights
 ![Profitability & Revenue Insights](Profit%26Loss.PNG)
 
+This dashboard breaks down profitability by product and customer segments, highlighting gross margins, net sales, and cost drivers to identify areas for improvement in revenue generation.
+
 ### P&L & Market Performance
 ![P&L & Market Performance](Supply%20Chain.PNG)
+
+Focusing on profit and loss analysis alongside market share trends, this view shows variance drivers, operational costs, and market performance metrics to support strategic decision-making.
 
 ## Key Features
 - Profitability and revenue metrics (net sales, gross margin, net profit, year-over-year trends)
